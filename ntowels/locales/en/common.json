@@ -1,0 +1,23 @@
+{
+    "homepage": "Home",
+    "products": "Products",
+    "productions":"Production",
+    "contact": "Contact",
+    "descriptionHeader": "What is NTowels ? ",
+    "description":"It produces antimicrobial resistant to multiple washings.",
+    "address":"Address information pending",
+    "phone":"Phone information pending",
+    "mail":"Mail information pending",
+    "viewAll":"View All",
+    "scaleOption":"Scale Options",
+    "available":"Available",
+    "unavailable":"Unavailable",
+    "weight":"Weight",
+    "close":"Close",
+    "certificates":"Certificates",
+    "machine1":"Machine 1",
+    "machine2":"Machine 2",
+    "machine3":"Machine 3"
+
+    
+}

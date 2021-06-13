@@ -1,0 +1,23 @@
+{
+    "homepage": "Ana Sayfa",
+    "products": "Ürünler",
+    "productions":"Üretim",
+    "contact": "İletişim",
+    "descriptionHeader": "NTowels Nedir ?",
+    "description":"Çoklu yıkamaya dayanıklı antimikrobial özellikte üretimi yapmaktadır.",
+    "address":"Adres bilgisi gelecek",
+    "phone":"Telefon bilgisi gelecek",
+    "mail":"Mail Bilgisi Gelecek",
+    "viewAll":"Tümünü Görüntüle",
+    "scaleOption":"İsteğe göre ölçü",
+    "available":"Var",
+    "unavailable":"Yok",
+    "weight":"Gramaj",
+    "close":"Kapat",
+    "certificates":"Sertifikalar",
+    "machine1":"Makine 1",
+    "machine2":"Makine 2",
+    "machine3":"Makine 3"
+
+    
+}
