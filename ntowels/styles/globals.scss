@@ -1,0 +1,38 @@
+@import "fonts.scss";
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat-Medium!important;
+}
+
+a{
+    text-decoration: none!important;
+}
+
+.font-bold{  
+    font-family: Montserrat-Bold;
+}
+
+.font-black{  
+    font-family: Montserrat-Black;
+}
+
+.text-big{
+    font-size: 3rem;
+}
+
+
+
+.hr{
+    border-top: 1px solid #cccccc;
+    width: 75%;
+    margin: 5rem auto;       
+}
+
+
+    
+
+
+
