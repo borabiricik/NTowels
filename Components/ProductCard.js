@@ -18,7 +18,7 @@ export default function ProductCard({ product }) {
             <Card className={styles.card} onClick={handleShowModal}>
                 <Image src={product.img} className="card-img" layout="responsive" width="100%" height={150} objectFit="cover" objectPosition="center" />
                 <Card.Body>
-                    <p className="font-bold mb-1">{product.name}</p>
+                    <p className="font-bold text-normal w-100 mb-1">{product.name}</p>
                     <div>
                         <small>{t("scaleOption")} </small>
                         {product.customScale ? <small className="text-success font-bold">{t("available")}</small> : <small className="text-danger">{t("unavailable")}</small>}

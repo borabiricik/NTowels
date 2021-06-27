@@ -7,8 +7,8 @@ import styles from "../Components/Layout/styles/googlemap.module.scss"
 export default class GoogleMap extends Component {
     static defaultProps = {
       center: {
-        lat: 40.2267491,
-        lng: 28.8320998
+        lat: 38.4536737,
+        lng: 27.1766507
       },
     };
    
@@ -22,8 +22,8 @@ export default class GoogleMap extends Component {
             defaultZoom={16}
           >
            <MapMarker
-            lat={40.2267491}
-            lng={28.8320998}
+            lat={38.4536737}
+            lng={27.1766507}
             text="NTowels"
           />
           </GoogleMapReact>

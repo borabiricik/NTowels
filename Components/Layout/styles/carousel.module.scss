@@ -1,3 +1,11 @@
-.sliderImage{
-    height: 200px!important;
+.slide{
+    position: relative;
 }
+
+.sliderText{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+

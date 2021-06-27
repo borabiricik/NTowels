@@ -11,20 +11,20 @@ export default function Contact() {
             <h2 className="text-center py-5">{t("contact")}</h2>
             <Row >
 
-                <div className="col-12 col-md-6">
+                <div className="col-12 col-md-7 mx-auto">
                     <p>
                         <IoMapOutline />
-                        <small className="pl-3 text-secondary">{t("address")}</small>
+                        <small className="pl-3 text-secondary w-100">Adalet Mah. Manas Blv. Folkart Towels No:47 B iç Kapi No:2601 Bayraklı/Izmir/Turkey</small>
                     </p>
 
                     <p>
                         <IoMailOutline />
-                        <small className="pl-3 text-secondary">{t("mail")}</small>
+                        <small className="pl-3 text-secondary">volkanh@ntowels.com</small>
                     </p>
 
                     <p>
                         <IoCallOutline />
-                        <small className="pl-3 text-secondary">{t("phone")}</small>
+                        <small className="pl-3 text-secondary">+90 533 427 94 64</small>
                     </p>
                 </div>
 

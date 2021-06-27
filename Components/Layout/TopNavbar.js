@@ -40,8 +40,8 @@ export default function TopNavbar() {
                         </Nav.Item>
 
                         <Nav.Item >
-                            <Link href="/production">
-                                <a className="btn font-medium">{t("productions")}</a>
+                            <Link href="/aboutus">
+                                <a className="btn font-medium">{t("aboutUs")}</a>
                             </Link>
                         </Nav.Item>
 

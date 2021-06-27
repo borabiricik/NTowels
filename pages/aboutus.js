@@ -1,12 +1,12 @@
 import React from 'react'
 import Landing from './Landing/Landing';
-import Productions from './../Components/Productions';
+import AboutUs from '../Components/AboutUs';
 
 
-export default function production() {
+export default function aboutus() {
     return (
         <Landing>
-            <Productions />
+            <AboutUs />
         </Landing>
     )
 }
