@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
     "animate.css": "^4.1.1",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
@@ -19,7 +22,7 @@
     "next": "10.2.3",
     "next-translate": "^1.0.7",
     "postcss-loader": "^6.1.0",
-    "react": "17.0.2",
+    "react": "^17.0.2",
     "react-animated-css": "^1.2.1",
     "react-bootstrap": "^1.6.1",
     "react-dom": "17.0.2",
